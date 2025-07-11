@@ -21,6 +21,8 @@ The highest score or score <= 21, wins.
 
 # **Requirements**
 - MASM32 or Irvine32 setup
+-    ```
+     https://www.asmirvine.com/gettingStartedVS2022/index.htm
 - Windows OS
 - Command line interface
 
