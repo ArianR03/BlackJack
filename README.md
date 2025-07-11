@@ -1,12 +1,12 @@
-#**Blackjack in x86 Assembly**
+# Blackjack in x86 Assembly
 
 Welcome to **Blackjack**, a command-line game implemented in x86 Assembly language using the Irvine32 library.
 Try to get as close to 21 as possible without going over, and beat dealers hand.
 
-#Project Overview**
+# **Project Overview**
 Project was written in x86 Assembly (MASM) using Irvine32 Library
 
-#**How to Play**
+# **How to Play**
 - You're dealt two cards at the start.
 -    Cards range between 2 to 10, with:
 -    Jack, Queen, and King = 10 Points
@@ -19,7 +19,7 @@ If total exceeds 21, you **bust** and lose the game.
 If dealer draws until they reach 17 or higher.
 The highest score or score <= 21, wins.
 
-#**Requirements**
+# **Requirements**
 - MASM32 or Irvine32 setup
 - Windows OS
 - Command line interface
